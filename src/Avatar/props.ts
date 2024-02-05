@@ -1,4 +1,4 @@
-const parameters = {
+export const parameters = {
   docs: {
     description: {
       component: "An avatar is a visual representation of a user or entity.",
@@ -6,7 +6,7 @@ const parameters = {
   },
 };
 
-const props = {
+export const props = {
   icon: {
     description: "icon that will be displayed inside of avatar-component",
     table: {
@@ -14,5 +14,3 @@ const props = {
     },
   },
 };
-
-export { props, parameters };

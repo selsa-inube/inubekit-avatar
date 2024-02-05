@@ -5,9 +5,9 @@ export interface IAvatarProps {
   icon?: React.ReactElement;
 }
 
-export const defaultIcon = <MdPersonOutline />;
+const defaultIcon = <MdPersonOutline />;
 
-const Avatar = (props: IAvatarProps) => {
+export const Avatar = (props: IAvatarProps) => {
   const { icon = defaultIcon } = props;
 
   return (
@@ -22,5 +22,3 @@ const Avatar = (props: IAvatarProps) => {
     />
   );
 };
-
-export { Avatar };
