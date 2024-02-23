@@ -1,6 +1,6 @@
 import { ThemeProvider } from "styled-components";
 
-import { presente } from "@inubekit/foundations";
+import { inube } from "@inubekit/foundations";
 import { Avatar, IAvatarProps } from ".";
 
 import { props, parameters } from "./props";
@@ -15,7 +15,7 @@ const story = {
 export const Default = () => <Avatar />;
 
 const theme = {
-  ...presente,
+  ...inube,
 };
 
 export const Themed = (args: IAvatarProps) => (
