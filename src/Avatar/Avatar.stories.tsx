@@ -9,6 +9,6 @@ const story = {
   argTypes: props,
 };
 
-export const Default = () => <Avatar />;
+export const Default = () => <Avatar icon={undefined} />;
 
 export default story;
