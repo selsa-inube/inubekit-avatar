@@ -1,9 +1,12 @@
 import { MdPersonOutline } from "react-icons/md";
 import { Icon } from "@inubekit/icon";
 
+export interface IAvatarProps {
+  icon?: React.ReactElement;
+}
 const defaultIcon = <MdPersonOutline />;
 
-export const Avatar = (props: { icon: React.ReactNode }) => {
+export const Avatar = (props: IAvatarProps) => {
   const { icon = defaultIcon } = props;
 
   return (
