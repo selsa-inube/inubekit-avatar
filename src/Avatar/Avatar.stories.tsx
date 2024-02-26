@@ -14,12 +14,8 @@ const story = {
 
 export const Default = () => <Avatar />;
 
-const theme = {
-  ...inube,
-};
-
 export const Themed = (args: IAvatarProps) => (
-  <ThemeProvider theme={theme}>
+  <ThemeProvider theme={inube}>
     <Avatar {...args} />
   </ThemeProvider>
 );
