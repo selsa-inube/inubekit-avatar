@@ -1,3 +1,20 @@
+# v2.0.0 (Tue Feb 27 2024)
+
+#### 💥 Breaking Change
+
+- Refactor component to use new version of `Icon` [#3](https://github.com/selsa-inube/inubekit-avatar/pull/3) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+#### 🐛 Bug Fix
+
+- publish package in npm [#2](https://github.com/selsa-inube/inubekit-avatar/pull/2) ([@Andresbl123](https://github.com/Andresbl123))
+
+#### Authors: 2
+
+- Andres ([@Andresbl123](https://github.com/Andresbl123))
+- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+
+---
+
 # v0.0.2 (Mon Feb 05 2024)
 
 #### 🐛 Bug Fix
