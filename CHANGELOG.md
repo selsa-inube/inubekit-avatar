@@ -1,3 +1,23 @@
+# v2.0.1 (Thu Apr 04 2024)
+
+#### 🐛 Bug Fix
+
+- Add auto publish [#6](https://github.com/selsa-inube/inubekit-avatar/pull/6) ([@cmarin001](https://github.com/cmarin001))
+
+#### 📝 Documentation
+
+- Publish new version Avatar [#4](https://github.com/selsa-inube/inubekit-avatar/pull/4) ([@cmarin001](https://github.com/cmarin001))
+
+#### 🔩 Dependency Updates
+
+- Update inubekit/avatar to storybook v8 [#5](https://github.com/selsa-inube/inubekit-avatar/pull/5) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.0.0 (Tue Feb 27 2024)
 
 #### 💥 Breaking Change
