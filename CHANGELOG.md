@@ -1,3 +1,19 @@
+# v2.8.0 (Fri Aug 02 2024)
+
+#### 🚀 Enhancement
+
+- Auto-merge PR [#14](https://github.com/selsa-inube/inubekit-avatar/pull/14) ([@cmarin001](https://github.com/cmarin001))
+
+#### ⚠️ Pushed to `main`
+
+- Update index.tsx ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.7.0 (Fri Aug 02 2024)
 
 #### 🚀 Enhancement
