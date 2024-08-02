@@ -9,7 +9,6 @@ export const Avatar = () => {
       variant="filled"
       shape="circle"
       icon={<MdPersonOutline />}
-      spacing="none"
       size="24px"
     />
   );
