@@ -10,7 +10,7 @@
   ],
   "description": "",
   "private": false,
-  "version": "2.22.0",
+  "version": "2.23.0",
   "type": "module",
   "exports": {
     ".": {
@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@inubekit/foundations": "^5.11.2",
-    "@inubekit/icon": "^2.14.0"
+    "@inubekit/icon": "^2.15.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",
