@@ -1,3 +1,15 @@
+# v2.24.0 (Tue Sep 03 2024)
+
+#### 🚀 Enhancement
+
+- Update foundations dependency to latest version [#31](https://github.com/selsa-inube/inubekit-avatar/pull/31) ([@cmarin001](https://github.com/cmarin001))
+
+#### Authors: 1
+
+- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+
+---
+
 # v2.23.0 (Mon Sep 02 2024)
 
 #### 🚀 Enhancement
