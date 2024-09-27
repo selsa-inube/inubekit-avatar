@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@inubekit/foundations": "^5.11.2",
-    "@inubekit/icon": "^2.16.0"
+    "@inubekit/icon": "^2.16.1"
   },
   "peerDependencies": {
     "react": "^18.2.0",
