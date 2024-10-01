@@ -1,7 +1,12 @@
 import { Icon } from "@inubekit/icon";
 import { MdPersonOutline } from "react-icons/md";
 
-export const Avatar = () => {
+interface IAvatar {
+  onClick?: () => void;
+}
+
+const Avatar = (props: IAvatar) => {
+  const { onClick } = props;
   return (
     <Icon
       appearance="primary"
@@ -11,6 +16,10 @@ export const Avatar = () => {
       icon={<MdPersonOutline />}
       size="32px"
       spacing="compact"
+      onClick={onClick} 
     />
   );
 };
+
+export { Avatar};
+export type { IAvatar };
