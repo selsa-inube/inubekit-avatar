@@ -1,6 +1,6 @@
 # Avatar
 
-This library publishes the `<Text />` component.
+This library publishes the `<Avatar />` component.
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm install @inubekit/avatar
 ## Import
 
 ```jsx
-import { Text } from "@inubekit/text";
+import { Avatar } from "@inubekit/avatar";
 ```
 
 ## Props
