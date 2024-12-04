@@ -1,3 +1,8 @@
+# v2.31.1 (Wed Dec 04 2024)
+
+- This version improves the documentation of the component using its README.md.
+- It also implements a build step in the pre-commit hook to ensure compilation.
+
 # v2.31.0 (Thu Oct 10 2024)
 
 #### 🚀 Enhancement
