@@ -1,12 +1,13 @@
+# v2.31.1 (Wed Dec 04 2024)
+
+- This version improves the documentation of the component using its README.md.
+- It also implements a build step in the pre-commit hook to ensure compilation.
+
 # v2.31.0 (Thu Oct 10 2024)
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#38](https://github.com/selsa-inube/inubekit-avatar/pull/38) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#38](https://github.com/selsa-inube/inubekit-avatar/pull/38)
 
 ---
 
@@ -14,11 +15,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#37](https://github.com/selsa-inube/inubekit-avatar/pull/37) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#37](https://github.com/selsa-inube/inubekit-avatar/pull/37)
 
 ---
 
@@ -26,11 +23,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#36](https://github.com/selsa-inube/inubekit-avatar/pull/36) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#36](https://github.com/selsa-inube/inubekit-avatar/pull/36)
 
 ---
 
@@ -38,11 +31,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#35](https://github.com/selsa-inube/inubekit-avatar/pull/35) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#35](https://github.com/selsa-inube/inubekit-avatar/pull/35)
 
 ---
 
@@ -50,12 +39,8 @@
 
 #### ⚠️ Pushed to `main`
 
-- Update index.ts ([@cmarin001](https://github.com/cmarin001))
-- Update index.tsx ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update index.ts
+- Update index.tsx
 
 ---
 
@@ -63,11 +48,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#34](https://github.com/selsa-inube/inubekit-avatar/pull/34) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#34](https://github.com/selsa-inube/inubekit-avatar/pull/34)
 
 ---
 
@@ -75,11 +56,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#33](https://github.com/selsa-inube/inubekit-avatar/pull/33) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#33](https://github.com/selsa-inube/inubekit-avatar/pull/33)
 
 ---
 
@@ -87,11 +64,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#32](https://github.com/selsa-inube/inubekit-avatar/pull/32) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#32](https://github.com/selsa-inube/inubekit-avatar/pull/32)
 
 ---
 
@@ -99,11 +72,7 @@
 
 #### 🚀 Enhancement
 
-- Update foundations dependency to latest version [#31](https://github.com/selsa-inube/inubekit-avatar/pull/31) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update foundations dependency to latest version [#31](https://github.com/selsa-inube/inubekit-avatar/pull/31)
 
 ---
 
@@ -111,11 +80,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#30](https://github.com/selsa-inube/inubekit-avatar/pull/30) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#30](https://github.com/selsa-inube/inubekit-avatar/pull/30)
 
 ---
 
@@ -123,11 +88,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#29](https://github.com/selsa-inube/inubekit-avatar/pull/29) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#29](https://github.com/selsa-inube/inubekit-avatar/pull/29)
 
 ---
 
@@ -135,11 +96,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#28](https://github.com/selsa-inube/inubekit-avatar/pull/28) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#28](https://github.com/selsa-inube/inubekit-avatar/pull/28)
 
 ---
 
@@ -147,12 +104,8 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#27](https://github.com/selsa-inube/inubekit-avatar/pull/27) ([@cmarin001](https://github.com/cmarin001))
-- Auto-merge PR [#26](https://github.com/selsa-inube/inubekit-avatar/pull/26) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#27](https://github.com/selsa-inube/inubekit-avatar/pull/27)
+- Auto-merge PR [#26](https://github.com/selsa-inube/inubekit-avatar/pull/26)
 
 ---
 
@@ -160,11 +113,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#25](https://github.com/selsa-inube/inubekit-avatar/pull/25) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#25](https://github.com/selsa-inube/inubekit-avatar/pull/25)
 
 ---
 
@@ -172,11 +121,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#24](https://github.com/selsa-inube/inubekit-avatar/pull/24) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#24](https://github.com/selsa-inube/inubekit-avatar/pull/24)
 
 ---
 
@@ -184,11 +129,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#23](https://github.com/selsa-inube/inubekit-avatar/pull/23) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#23](https://github.com/selsa-inube/inubekit-avatar/pull/23)
 
 ---
 
@@ -196,11 +137,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#22](https://github.com/selsa-inube/inubekit-avatar/pull/22) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#22](https://github.com/selsa-inube/inubekit-avatar/pull/22)
 
 ---
 
@@ -208,11 +145,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#21](https://github.com/selsa-inube/inubekit-avatar/pull/21) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#21](https://github.com/selsa-inube/inubekit-avatar/pull/21)
 
 ---
 
@@ -220,11 +153,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#20](https://github.com/selsa-inube/inubekit-avatar/pull/20) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#20](https://github.com/selsa-inube/inubekit-avatar/pull/20)
 
 ---
 
@@ -232,11 +161,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#19](https://github.com/selsa-inube/inubekit-avatar/pull/19) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#19](https://github.com/selsa-inube/inubekit-avatar/pull/19)
 
 ---
 
@@ -244,11 +169,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#18](https://github.com/selsa-inube/inubekit-avatar/pull/18) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#18](https://github.com/selsa-inube/inubekit-avatar/pull/18)
 
 ---
 
@@ -256,11 +177,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#17](https://github.com/selsa-inube/inubekit-avatar/pull/17) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#17](https://github.com/selsa-inube/inubekit-avatar/pull/17)
 
 ---
 
@@ -268,11 +185,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#16](https://github.com/selsa-inube/inubekit-avatar/pull/16) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#16](https://github.com/selsa-inube/inubekit-avatar/pull/16)
 
 ---
 
@@ -280,11 +193,7 @@
 
 #### ⚠️ Pushed to `main`
 
-- Update index.tsx ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update index.tsx
 
 ---
 
@@ -292,11 +201,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#15](https://github.com/selsa-inube/inubekit-avatar/pull/15) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#15](https://github.com/selsa-inube/inubekit-avatar/pull/15)
 
 ---
 
@@ -304,15 +209,11 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#14](https://github.com/selsa-inube/inubekit-avatar/pull/14) ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#14](https://github.com/selsa-inube/inubekit-avatar/pull/14)
 
 #### ⚠️ Pushed to `main`
 
-- Update index.tsx ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update index.tsx
 
 ---
 
@@ -320,11 +221,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#13](https://github.com/selsa-inube/inubekit-avatar/pull/13) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#13](https://github.com/selsa-inube/inubekit-avatar/pull/13)
 
 ---
 
@@ -332,11 +229,7 @@
 
 #### ⚠️ Pushed to `main`
 
-- Create update-icon.yml ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Create update-icon.yml
 
 ---
 
@@ -344,11 +237,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#12](https://github.com/selsa-inube/inubekit-avatar/pull/12) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#12](https://github.com/selsa-inube/inubekit-avatar/pull/12)
 
 ---
 
@@ -356,11 +245,7 @@
 
 #### ⚠️ Pushed to `main`
 
-- Update update-foundations.yml ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update update-foundations.yml
 
 ---
 
@@ -368,11 +253,7 @@
 
 #### 🚀 Enhancement
 
-- Auto-merge PR [#11](https://github.com/selsa-inube/inubekit-avatar/pull/11) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Auto-merge PR [#11](https://github.com/selsa-inube/inubekit-avatar/pull/11)
 
 ---
 
@@ -380,11 +261,7 @@
 
 #### 🚀 Enhancement
 
-- Add GitHub Workflow to Automatically Update Foundations Dependencies [#10](https://github.com/selsa-inube/inubekit-avatar/pull/10) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Add GitHub Workflow to Automatically Update Foundations Dependencies [#10](https://github.com/selsa-inube/inubekit-avatar/pull/10)
 
 ---
 
@@ -392,11 +269,7 @@
 
 #### 🚀 Enhancement
 
-- Update foundations dependencies [#9](https://github.com/selsa-inube/inubekit-avatar/pull/9) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update foundations dependencies [#9](https://github.com/selsa-inube/inubekit-avatar/pull/9)
 
 ---
 
@@ -404,11 +277,7 @@
 
 #### 🚀 Enhancement
 
-- Update Project Dependencies [#8](https://github.com/selsa-inube/inubekit-avatar/pull/8) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update Project Dependencies [#8](https://github.com/selsa-inube/inubekit-avatar/pull/8)
 
 ---
 
@@ -416,11 +285,7 @@
 
 #### 🚀 Enhancement
 
-- Update workflow in order to avoid merges with failed builds [#7](https://github.com/selsa-inube/inubekit-avatar/pull/7) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update workflow in order to avoid merges with failed builds [#7](https://github.com/selsa-inube/inubekit-avatar/pull/7)
 
 ---
 
@@ -428,19 +293,15 @@
 
 #### 🐛 Bug Fix
 
-- Add auto publish [#6](https://github.com/selsa-inube/inubekit-avatar/pull/6) ([@cmarin001](https://github.com/cmarin001))
+- Add auto publish [#6](https://github.com/selsa-inube/inubekit-avatar/pull/6)
 
 #### 📝 Documentation
 
-- Publish new version Avatar [#4](https://github.com/selsa-inube/inubekit-avatar/pull/4) ([@cmarin001](https://github.com/cmarin001))
+- Publish new version Avatar [#4](https://github.com/selsa-inube/inubekit-avatar/pull/4)
 
 #### 🔩 Dependency Updates
 
-- Update inubekit/avatar to storybook v8 [#5](https://github.com/selsa-inube/inubekit-avatar/pull/5) ([@cmarin001](https://github.com/cmarin001))
-
-#### Authors: 1
-
-- Cesar Marin Alfonso ([@cmarin001](https://github.com/cmarin001))
+- Update inubekit/avatar to storybook v8 [#5](https://github.com/selsa-inube/inubekit-avatar/pull/5)
 
 ---
 
@@ -457,7 +318,7 @@
 #### Authors: 2
 
 - Andres ([@Andresbl123](https://github.com/Andresbl123))
-- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Januar Asprilla ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 ---
 
@@ -465,15 +326,13 @@
 
 #### 🐛 Bug Fix
 
-- implementation of  `<Avatar />` component [#1](https://github.com/selsa-inube/inubekit-avatar/pull/1) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- implementation of `<Avatar />` component [#1](https://github.com/selsa-inube/inubekit-avatar/pull/1) ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 #### ⚠️ Pushed to `main`
 
 - Initial commit ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
-#### Authors: 1
-
-- Januar Asprilla  ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
+- Januar Asprilla ([@JanuarAsprilla](https://github.com/JanuarAsprilla))
 
 ---
 
@@ -491,7 +350,5 @@
 - feat: add eslint in pre-commit hook ([@wfercanas](https://github.com/wfercanas))
 - test: prettier format on commit ([@wfercanas](https://github.com/wfercanas))
 - feat: install dependencies ([@wfercanas](https://github.com/wfercanas))
-
-#### Authors: 1
 
 - Fernando Cañas ([@wfercanas](https://github.com/wfercanas))
